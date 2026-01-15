@@ -1,0 +1,219 @@
+{
+  "main": {
+    "id": "1c9728a1ba0dcd16",
+    "type": "split",
+    "children": [
+      {
+        "id": "52cc07f248c9b13a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4d09012f10b2ab3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1c6c7cd6ba5b86f9",
+    "type": "split",
+    "children": [
+      {
+        "id": "d8030b3a820bb52b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d49de64e0361d7d9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1b928d150cffbfc5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ccd105afe28cb458",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4061c4c528dd57a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "fee77672d61c2bf0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cb18c941cdf837be",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for README"
+            }
+          },
+          {
+            "id": "661dc03fab10c301",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from README"
+            }
+          },
+          {
+            "id": "f3cc0b6443b14246",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "bbc3b6cedce55d26",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "0dc209d9a5f26bb2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "4d09012f10b2ab3b",
+  "lastOpenFiles": [
+    "Оглавление.md",
+    "images/OS 99.png",
+    "6. Тупики (Deadlocks).md",
+    "16. Ввод-Вывод - Жёсткие диски.md",
+    "15. Ввод-Вывод - Логическая организация.md",
+    "images/3D 2.png",
+    "images/3D 1.png",
+    "images/OS 98.png",
+    "images/OS 96.png",
+    "images/OS 97.png",
+    "images/OS 95.png",
+    "images/OS 94.png",
+    "images/OS 93.png",
+    "images/OS 92.png",
+    "images",
+    "Images",
+    "Ответы на вопросы.docx",
+    "14. Ввод-Вывод - Физическая организация.md",
+    "13. Файловая система - часть 3.md",
+    "12. Файловая система - часть 2.md",
+    "11. Файловая система - часть 1.md",
+    "10. Управление памятью - часть 4.md",
+    "9. Управление памятью - часть 3.md",
+    "8. Управление памятью - часть 2.md",
+    "7. Управление памятью - часть 1.md",
+    "5. Взаимодействие процессов - часть 2.md",
+    "4. Взаимодействие процессов - часть 1.md",
+    "3. Планирование процессов в операционных системах.md",
+    "2. Процессы и нити исполнения (потоки).md",
+    "1. Операционные системы - Введение.md"
+  ]
+}
