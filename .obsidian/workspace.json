@@ -11,10 +11,14 @@
             "id": "19b334ddee128737",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "14. Ввод-Вывод - Физическая организация.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "14. Ввод-Вывод - Физическая организация"
             }
           }
         ]
@@ -85,34 +89,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cb18c941cdf837be",
+            "id": "0dc209d9a5f26bb2",
             "type": "leaf",
             "state": {
-              "type": "backlink",
+              "type": "outline",
               "state": {
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
+                "file": "14. Ввод-Вывод - Физическая организация.md",
+                "followCursor": false,
                 "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "searchQuery": ""
               },
-              "icon": "links-coming-in",
-              "title": "Backlinks"
-            }
-          },
-          {
-            "id": "661dc03fab10c301",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links"
+              "icon": "lucide-list",
+              "title": "Outline of 14. Ввод-Вывод - Физическая организация"
             }
           },
           {
@@ -131,7 +119,40 @@
             }
           },
           {
-            "id": "bbc3b6cedce55d26",
+            "id": "82caa3b57a7966b2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "14. Ввод-Вывод - Физическая организация.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 14. Ввод-Вывод - Физическая организация"
+            }
+          },
+          {
+            "id": "f093bf8da5a7538a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "14. Ввод-Вывод - Физическая организация.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 14. Ввод-Вывод - Физическая организация"
+            }
+          },
+          {
+            "id": "be0e70e656c05176",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -143,27 +164,12 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
-          },
-          {
-            "id": "0dc209d9a5f26bb2",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline"
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,13 +184,16 @@
   },
   "active": "19b334ddee128737",
   "lastOpenFiles": [
+    "15. Ввод-Вывод - Логическая организация.md",
+    "14. Ввод-Вывод - Физическая организация.md",
+    "16. Ввод-Вывод - Жёсткие диски.md",
+    "11. Файловая система - часть 1.md",
+    "12. Файловая система - часть 2.md",
     "Оглавление.md",
     "README.md",
     "9. Управление памятью - часть 3.md",
     "images/OS 99.png",
     "6. Тупики (Deadlocks).md",
-    "16. Ввод-Вывод - Жёсткие диски.md",
-    "15. Ввод-Вывод - Логическая организация.md",
     "images/3D 2.png",
     "images/3D 1.png",
     "images/OS 98.png",
@@ -197,10 +206,7 @@
     "images",
     "Images",
     "Ответы на вопросы.docx",
-    "14. Ввод-Вывод - Физическая организация.md",
     "13. Файловая система - часть 3.md",
-    "12. Файловая система - часть 2.md",
-    "11. Файловая система - часть 1.md",
     "10. Управление памятью - часть 4.md",
     "8. Управление памятью - часть 2.md",
     "7. Управление памятью - часть 1.md",
